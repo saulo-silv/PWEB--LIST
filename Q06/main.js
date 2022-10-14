@@ -9,7 +9,6 @@ if (num1 <= num2 && num2 <= num3) {
     
 }else if (num2 <= num1 && num1 <= num3) {
     document.write("a ordem crescente é:"+ num2 , num1, num3);    
-    
 }else if (num2 <= num3 && num3 <= num1) {
     document.write("a ordem crescente é:"+ num2 , num3, num1);    
     
